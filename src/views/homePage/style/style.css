@@ -1,0 +1,37 @@
+.globalDiv {
+  width: 15%;
+  font-size: small;
+  margin-left: 40%;
+  margin-top: 15%;
+}
+
+.textNumberStyle {
+  text-align: left;
+  margin-top: 1%;
+}
+
+.checkboxTextStyle {
+  margin-left: 5%;
+  margin-top: 4%;
+  float: left;
+}
+
+.checkboxStyle {
+  float: left;
+  margin-top: 5%;
+}
+
+.inputHome {
+  float: right;
+  border: 1px solid black;
+  
+}
+
+.buttonHome{
+    margin-top: 10%;
+    border-radius: 0px;
+}
+
+.errorInput{
+  color: red;
+}

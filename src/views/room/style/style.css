@@ -1,0 +1,80 @@
+.itemStyle {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border: 1px solid black
+}
+
+td {
+  border: 1px solid black;
+  margin-left: 20px !important;
+  margin-top: 20px !important
+}
+
+.itemStyle:hover {
+  background-color: chocolate;
+}
+
+.RoomGlobalDiv {
+  margin-left: 10px;
+}
+
+.freePlaceDiv {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border: 1px solid black;
+  top: 140%;
+  left: 2%;
+}
+
+.textFreePlace {
+  top: 145%;
+  left: 9%;
+  position: absolute;
+}
+
+
+.orderPlaceDiv{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border: 1px solid black;
+  top: 140%;
+  left: 20%;
+  background-color: silver;
+}
+
+.textOrderPlace{
+  top: 145%;
+  left: 27%;
+  position: absolute;
+}
+
+.yourPlaceDiv{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border: 1px solid black;
+  top: 140%;
+  left: 43%;
+  background-color: chocolate;
+}
+
+.textYourPlace{
+  top: 145%;
+  left: 50%;
+  position: absolute;
+}
+
+.buttonReserve{
+  position: absolute;
+  top: 140%;
+  left: 73%;
+  width: 340px;
+  height: 80px;
+}
+
+.itemStyle td{
+  margin-left: 20px;
+}
